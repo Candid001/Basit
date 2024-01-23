@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  header {
+    background-color: #234;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  nav {
+    list-style: none;
+    background-color: rgb(255, 0, 234);
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin: 0;
+  }
+  
+  main {
+    padding: 0px;
+    background-color: antiquewhite;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    padding: 20;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+  }
+
+  #about {
+    color: rgb(205, 248, 167);
+    padding: 20px;
+    text-align: center;
+    background-color: #333;
+  }
+
+  #experience {
+
+  }
+
+  #skills {
+
+  }
+
+  #projects {
+
+  }
+
+  #contact  {
+    text-align: center;
+  }
